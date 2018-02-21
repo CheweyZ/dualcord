@@ -1,0 +1,12 @@
+{
+  "name": "dualcord",
+  "version": "1.0.1",
+  "description": "A Dual version of discord.io and discord.js to get the best of both worlds",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^11.3.0"
+  },
+  "devDependencies": {},
+  "author": "Chewey",
+  "license": "ISC"
+}
