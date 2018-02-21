@@ -1,6 +1,6 @@
 {
   "name": "dualcord",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A Dual version of discord.io and discord.js to get the best of both worlds",
   "main": "index.js",
   "dependencies": {
